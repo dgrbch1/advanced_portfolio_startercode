@@ -24,3 +24,9 @@
 /* Button CSS */
 
 
+
+.col-xs-12 {
+    background-color: LightSalmon ;
+    border: solid;
+}
+
